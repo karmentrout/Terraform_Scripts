@@ -1,0 +1,6 @@
+baseurl   = "https://affirm-dev.goskope.com"
+apitoken  = "0c7589250d8a89f96609cdd1f312fa98"
+app_name  = "ShakeNBake"
+host      = "10.10.10.55.site.example.internal"  
+publisher_id = "3"
+publisher_name = "WEST-NS-Pub-1-DEV"
